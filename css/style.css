@@ -22,6 +22,10 @@ h1 {
 	font-size: 100px;
 }
 
+h2 {
+	font-size: 40px;
+}
+
 a:link {
 	text-decoration: none;
 	color: #98ADA6;
