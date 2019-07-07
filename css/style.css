@@ -26,3 +26,7 @@ a:link {
 	text-decoration: none;
 	color: #98ADA6;
 }
+
+.small {
+	text-align: right;
+}
