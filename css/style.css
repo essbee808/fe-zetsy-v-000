@@ -40,3 +40,7 @@ a:link {
 main {
 	color: #6F7F7A;
 }
+
+.container {
+	position: center;
+}
