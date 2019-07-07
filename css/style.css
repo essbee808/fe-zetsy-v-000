@@ -21,7 +21,8 @@ body {
 h1 {
 	font-size: 100px;
 	margin: 0px 0px 5px;
-	padding-bottom: 0px 0px 10px;
+	padding-bottom: 10px;
+	font-family: 'Baskerville', sans-serif;
 }
 
 h2 {
